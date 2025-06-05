@@ -1,5 +1,9 @@
-# Curseforge Mirror Template
+# GearScoreClassic+ Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of gk646's GearScoreClassic+
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/gearscoreclassic)
+
+----
+
+To open a ticket related to this repository, please do so on [this repository](https://github.com/curseforge-mirror/.github)
